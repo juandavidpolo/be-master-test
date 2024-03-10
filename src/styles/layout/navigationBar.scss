@@ -1,0 +1,13 @@
+.navbar {
+  background: transparent;
+  .nav-link{
+    color: $white;
+  }
+}
+
+.navbar.navbar--scrolling {
+  background: #0e0b14;
+  .nav-link {
+    color: $white;
+  }
+}

@@ -23,7 +23,7 @@ const NavigationBar = () => {
   }
 
   return(
-    <Navbar fixed="top" expand="sm" dark={true} className={navHeightChange? " navbar--scrolling":""}>
+    <Navbar fixed="top" expand="sm" className={navHeightChange? " navbar--scrolling":""}>
       <NavbarBrand href="#">
         <DisnyeyLogo width="79" height="48"/>
       </NavbarBrand>

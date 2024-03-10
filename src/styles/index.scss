@@ -4,11 +4,16 @@
 
 $white:#ffffff;
 
+//custom components
 @import './components/form.scss';
 @import './components/elements.scss';
 @import './components/custom--carousel.scss';
 @import './components/content--categories.scss';
 
-@import './views/login.scss';
-
+//Main layout
 @import './layout/index.scss';
+
+//Views
+@import './views/login.scss';
+@import './views/home.scss';
+@import './views/content--category.scss';

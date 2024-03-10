@@ -2,13 +2,8 @@
   min-height: 100vh;
   &>.navbar{
     height: 75px;
-    background: transparent;
-  }
-  &>.navbar.navbar--scrolling{
-    background: #0e0b14;
   }
   &>.custom--view{
-    padding-top: 75px;
     height: auto;
     box-sizing: border-box;
     background-color: rgb(26, 29, 41);
@@ -18,4 +13,5 @@
   }
 }
 
-@import './footer.scss'
+@import './footer.scss';
+@import './navigationBar.scss';

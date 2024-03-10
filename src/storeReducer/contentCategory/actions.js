@@ -2,11 +2,11 @@ import { createAsyncThunk } from "@reduxjs/toolkit";
 
 import axiosInstance from '../../utils/axios';
 
-export const getHomeCarousel = createAsyncThunk("getHomeCarousel", async (payload, thunkAPI) => {
+export const getContentCategory = createAsyncThunk("getContentCategory", async (payload, thunkAPI) => {
   try {
-    const response = await axiosInstance.get(`/data/home/carousel.json`);
+    const response = await axiosInstance.get(`/data/contentCategory/${payload}.json`);
     if (response && response.status === 200) {
-      return response.data.items
+      return response.data
     } else {
       return []
     }

@@ -1,0 +1,62 @@
+{
+  "name": "star-wars",
+  "imgSrc": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A92131654C1E0B1A4C072A327E49FB30CA8BDED279852FB32CAD9B33B4AAAB1/scale?width=1440&aspectRatio=1.78&format=jpeg",
+  "vidSrc": "https://vod-bgc-sa-east-1.media.dssott.com/bgui/ps01/disney/bgui/2021/11/04/1636056809-star-wars.mp4",
+  "movies": [
+    {
+      "id": 1,
+      "name": "Star Wars: The Bad Batch",
+      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1B7FE678C10F1D17E95C75591E592485C79996758847E5ADB079590829B8ED5C/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+      "description": "El final épico de la confrontación entre el Batallón Clon 99 y el recién formado Imperio.",
+      "details": {
+        "duration": "3 Temporadas",
+        "year": "2021 - 2024",
+        "categories": [
+          "Ciencia Ficción",
+          "Animación"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rogue One: Una historia de Star Wars",
+      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C8CC58A8C41C7A1FA33BC8DD16E65ABF80A161F91DD4B432A4826544C2C32834/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Unos héroes insólitos se unen para robar los planos de la Estrella de la Muerte.",
+      "details": {
+        "duration": "2h 14min",
+        "year": "2016",
+        "categories": [
+          "Ciencia Ficción",
+          "Acción y Aventura"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "The Mandalorian",
+      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4826879538A92B52B2B316E2E9D5A1BEC5C774C094FF9F96E3265E0D4220E3E6/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+      "description": "Tras la caída del Imperio, un mandaloriano solitario atraviesa la galaxia con un huérfano.",
+      "details": {
+        "duration": "2h 8min",
+        "year": "2019 - 2023",
+        "categories": [
+          "Ciencia Ficción",
+          "Acción y Aventura"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Guardianes de la galaxia",
+      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6653CC13A75760BB42028B2BC7B06AC0BDEFA1542A3873E3AB6C8177ED372983/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+      "description": "Explora el regreso de Obi-Wan Kenobi a la pantalla y el de Ewan McGregor a su personaje clásico.",
+      "details": {
+        "duration": "1h",
+        "year": "2022",
+        "categories": [
+          "Documentales"
+        ]
+      }
+    }
+  ]
+}

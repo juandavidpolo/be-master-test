@@ -1,0 +1,30 @@
+.content--view{
+  padding-top: 0;
+  min-height: calc(100vh - 245px);
+  .main--bg{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    &>div{
+      &>.image--bg {
+        display: none;
+        z-index: 0;
+        width: 100%;
+        aspect-ratio: 1.78;
+      }
+      &>.image--bg.active {
+        display: block;
+      }
+      &>.video--bg {
+        display: none;
+        z-index: 0;
+        width: 100%;
+        aspect-ratio: 1.78;
+      }
+      &>.video--bg.active {
+        display: block;
+      }
+    }
+  }
+}

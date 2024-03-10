@@ -1,0 +1,14 @@
+.container{
+  box-sizing: border-box;
+}
+
+$white:#ffffff;
+
+@import './components/form.scss';
+@import './components/elements.scss';
+@import './components/custom--carousel.scss';
+@import './components/content--categories.scss';
+
+@import './views/login.scss';
+
+@import './layout/index.scss';

@@ -19,22 +19,24 @@ const ContentDetails = ({ data, changeModalState }) => {
       changeModalState={changeModalState}
       submitLabel="Ver Ahora"
       cancelLabel="Cerrar"
-      width="60vw"
+      width="auto"
       heigth="300px">
       <div className='content--details'>
-        {/*<img className='details--bg' src={data.imgBg}/>*/}
         <div className='details--info'>
           <div className='categories--details'>
             {details && details.categories && details.categories.length > 0 &&
               details.categories.map((it, i) => (<span key={i}><b>{it}</b></span>))}
           </div>
-          <div>
+          <div className='some--details'>
             <Badge color="secondary">
               {details.year}
             </Badge>
             <Badge color="secondary">
               {details.duration}
             </Badge>
+          </div>
+          <div className='img--details'>
+            <img src={data.imgBg} />
           </div>
         </div>
       </div>

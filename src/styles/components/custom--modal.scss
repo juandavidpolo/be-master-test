@@ -13,7 +13,7 @@
   align-items: center;
   overflow: hidden;
   &>.modal--structure {
-    background: #FFFFFF;
+    background: #0e0b14;
     border-radius: 20px;
     padding: 0px;
     display: flex;
@@ -30,7 +30,7 @@
       gap: 10px;
       display: flex;
       flex-direction: row;
-      justify-content: flex-start;
+      justify-content: space-between;
       align-items: center;
     }
   }

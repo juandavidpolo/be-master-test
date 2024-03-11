@@ -30,7 +30,7 @@ const Step2 = ({ user, onChange, changeStep, login }) => {
           onChange={onChange}
         />
         <div className="button--container">
-          <button type="button" className="btn btn-primary custom--button">
+          <button type="submit" className="btn btn-primary custom--button">
             Continue
           </button>
         </div>

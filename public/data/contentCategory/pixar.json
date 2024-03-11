@@ -6,7 +6,7 @@
     {
       "id": 1,
       "name": "Elementos",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0403F5DF36326F80CEE56B3EF775618C650A72E2D596E512EE2054A51BDE940B/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0403F5DF36326F80CEE56B3EF775618C650A72E2D596E512EE2054A51BDE940B/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Conoce a los habitantes fuego, agua, aire y tierra de ciudad Elemento.",
       "details": {
         "duration": "1h 42min",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "Coco",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/29BC1A4A2B4F848373C1242ABB3BCDEEC9DF513D56A44EF24A47192AEC578698/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/29BC1A4A2B4F848373C1242ABB3BCDEEC9DF513D56A44EF24A47192AEC578698/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Miguel viaja a la mágica tierra de sus antepasados.",
       "details": {
         "duration": "1h 45min",
@@ -34,7 +34,7 @@
     {
       "id": 3,
       "name": "Up: Una aventura de altura",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CDF86EB9E488822B723FCA457EB250FB5CD55A111C4F7393636122ADA67D657/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CDF86EB9E488822B723FCA457EB250FB5CD55A111C4F7393636122ADA67D657/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Una pareja despareja se embarca en una aventura por los aires.",
       "details": {
         "duration": "1h 37min",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Intensa-Mente",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/42E9C72D02EA708D86845F47949CC7F9E4398E0A82D1584FB08D324EAFBFBE6E/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/42E9C72D02EA708D86845F47949CC7F9E4398E0A82D1584FB08D324EAFBFBE6E/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Las Cinco Emociones deben trabajar horas extra cuando una joven se muda a una nueva ciudad.",
       "details": {
         "duration": "1h 35min",

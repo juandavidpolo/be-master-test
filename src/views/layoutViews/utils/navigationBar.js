@@ -1,13 +1,17 @@
 import React, {useState} from "react";
-
+import { useDispatch } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
 import { useScrollPosition } from '../../../hooks/scrollposition';
 
-import {Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, NavbarText} from 'reactstrap';
+import { setUser } from '../../../utils/complements';
+
+import {Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
 import DisnyeyLogo from "../../../assets/svg/disneyLogo";
 
 const NavigationBar = () => {
 
   const scrollPosition = useScrollPosition();
+  const navigate = useNavigate();
 
   const [isOpen, setOpen] = useState(false);
 
@@ -22,6 +26,11 @@ const NavigationBar = () => {
     setOpen(!isOpen)
   }
 
+  function logout(){
+    setUser(null);
+    navigate("/login")
+  }
+
   return(
     <Navbar fixed="top" expand="sm" className={navHeightChange? " navbar--scrolling":""}>
       <NavbarBrand href="#">
@@ -31,7 +40,16 @@ const NavigationBar = () => {
       <Collapse isOpen={isOpen} navbar>
         <Nav className="me-auto" navbar>
           <NavItem>
-            <NavLink href="#">Components</NavLink>
+            <NavLink href="/content/disney">Disney</NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="/content/marvel">Marvel</NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="/content/star-wars">Star Wars</NavLink>
+          </NavItem>
+          <NavItem>
+            <a className="nav-link" type="button" onClick={ev=>{logout()}}>Cerrar Sesion</a>
           </NavItem>
         </Nav>
       </Collapse>

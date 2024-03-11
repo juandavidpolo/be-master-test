@@ -9,6 +9,7 @@ $white:#ffffff;
 @import './components/elements.scss';
 @import './components/custom--carousel.scss';
 @import './components/content--categories.scss';
+@import './components/custom--modal.scss';
 
 //Main layout
 @import './layout/index.scss';
@@ -17,3 +18,5 @@ $white:#ffffff;
 @import './views/login.scss';
 @import './views/home.scss';
 @import './views/content--category.scss';
+
+@import './views/content--details.scss';

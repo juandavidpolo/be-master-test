@@ -13,9 +13,6 @@ const Home = () => {
 
   const [carouselItems, setCarouselItems] = useState([])
 
-  console.log("test: ", data, carouselItems)
-
-
   useEffect(()=>{
     if (!data.carouselRequested){
       dispatch(getHomeCarousel());

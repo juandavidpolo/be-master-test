@@ -6,7 +6,7 @@
     {
       "id":1,
       "name":"Enredados",
-      "img-bg":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A3C4CFCD19C5898E348E21335D81DF9792290940E6F8B9F50A6FAEA0F9B34264/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A3C4CFCD19C5898E348E21335D81DF9792290940E6F8B9F50A6FAEA0F9B34264/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description":"Rapunzel y Flynn se embarcan en una desopilante y espeluznante aventura.",
       "details":{
         "duration":"1h 41min",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "Hercules",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A017275D398D35ED452C56DCE0E47F05EDF0E8B6705E3DB5BC86223DC27C91F6/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A017275D398D35ED452C56DCE0E47F05EDF0E8B6705E3DB5BC86223DC27C91F6/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Hércules debe transformarse en héroe para salvar al universo de la ira de Hades.",
       "details": {
         "duration": "1h 40min",
@@ -34,7 +34,7 @@
     {
       "id": 3,
       "name": "Up: Una aventura de altura",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CDF86EB9E488822B723FCA457EB250FB5CD55A111C4F7393636122ADA67D657/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CDF86EB9E488822B723FCA457EB250FB5CD55A111C4F7393636122ADA67D657/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Una pareja despareja se embarca en una aventura por los aires.",
       "details": {
         "duration": "1h 37min",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Winnie the Pooh",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7C76D18E0AF545A5B6D77E6E8680D8807FEEC6F8F75B47811E738E3E8870609/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7C76D18E0AF545A5B6D77E6E8680D8807FEEC6F8F75B47811E738E3E8870609/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Las Cinco Emociones deben trabajar horas extra cuando una joven se muda a una nueva ciudad.",
       "details": {
         "duration": "1h 13min",
@@ -59,5 +59,6 @@
         ]
       }
     }
-  ]
+  ],
+  "series": []
 }

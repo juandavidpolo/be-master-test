@@ -2,5 +2,7 @@
   "name": "national-geographic",
   "imgSrc": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/368CF25E5033AC11C828B2AA2B113942743175E35C5AA7A4F6F6F39E70E5B204/scale?width=1440&aspectRatio=1.78&format=jpeg",
   "vidSrc": "https://vod-bgc-sa-east-1.media.dssott.com/bgui/ps01/disney/bgui/2021/11/04/1636056567-national-geographic.mp4",
-  "movies": []
+  "movies": [],
+  "series": [],
+  "documentaries":[]
 }

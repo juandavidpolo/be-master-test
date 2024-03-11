@@ -6,7 +6,7 @@
     {
       "id": 1,
       "name": "Capitan America: El primer vengador",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/95C976CA3FF6E5D7434874C3D705E133D8F1AF970ED3A319D90CD7C8BC36A83D/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/95C976CA3FF6E5D7434874C3D705E133D8F1AF970ED3A319D90CD7C8BC36A83D/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Una investigación secreta convierte a Steve Rogers en el Capitán América.",
       "details": {
         "duration": "2h 7min",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "Capitana Marvel",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A99A31E369F78255973F980994294354C8E80C49E3484A3F329D62B94D0A6AE1/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A99A31E369F78255973F980994294354C8E80C49E3484A3F329D62B94D0A6AE1/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Hércules debe transformarse en héroe para salvar al universo de la ira de Hades.",
       "details": {
         "duration": "2h 8min",
@@ -34,7 +34,7 @@
     {
       "id": 3,
       "name": "Iron Man",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/80C64C0B63382CD3ED2653356125F275F63D036028A77D38DC3286AD851A6833/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/80C64C0B63382CD3ED2653356125F275F63D036028A77D38DC3286AD851A6833/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "El empresario industrial Tony Stark jura proteger el mundo como Iron Man.",
       "details": {
         "duration": "2h 8min",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Guardianes de la galaxia",
-      "img-bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6173AE830B8DDAC16FD7689AD142E925FAE5E33C9B69B5000623E849EEE880B9/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "imgBg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6173AE830B8DDAC16FD7689AD142E925FAE5E33C9B69B5000623E849EEE880B9/scale?width=400&aspectRatio=1.78&format=jpeg",
       "description": "Las Cinco Emociones deben trabajar horas extra cuando una joven se muda a una nueva ciudad.",
       "details": {
         "duration": "2h 3min",
@@ -59,5 +59,6 @@
         ]
       }
     }
-  ]
+  ],
+  "series": []
 }

@@ -1,0 +1,22 @@
+.content--details{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  &>.details--info{
+    padding: 20px;
+    box-sizing: border-box;
+    &>.categories--details{
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      &>span{
+        margin: 0px 5px;
+      }
+    }
+    &>div:last-child{
+      &>*{
+        margin: 0px 5px;
+      }
+    }
+  }
+}
